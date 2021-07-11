@@ -59,6 +59,7 @@ The **`SFE_equimolar.in`** is our input file. The simulation process is as follo
 In this simulation, the upper block of the simulation box(as a rigid body) is displaced on the lower block along **[11-2] direction** on ***(111) crystalline plane*. 
 
 
+
 If you have any question about our project, please contact our email address: dchen@ntu.edu.tw
 
 ## References
